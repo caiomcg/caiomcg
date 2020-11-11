@@ -4,7 +4,7 @@
 [![StackOverflow Badge](https://img.shields.io/badge/-caiomcg-grey?style=flat&logo=StackOverflow&logoColor=white&link=https://stackoverflow.com/users/2748344/caiomcg)](https://stackoverflow.com/users/2748344/caiomcg) 
 [![Github Badge](https://img.shields.io/badge/-caiomcg-grey?style=flat&logo=github&logoColor=white&link=https://github.com/rajk3770/)](https://www.github.com/caiomcg/)
 
-Hi, this is Caio, I am a Computer Science Bachelor from Brazil seeking a Master of Science title in Informatics focused on Distributed Systems.
+I am a Computer Science Bachelor from Brazil seeking a Master of Science title in Informatics focused on Distributed Systems.
 
 I am currently working with real time multimedia software for digital cinema, helping the inclusion of deaf and blind spectators in theaters around the world. My work is currently available in the vast majority of cinemas around Brazil and will soon be available worldwide, if you want to know a bit more about it please have a look over [here](https://professional.dolby.com/product/dolby-accessibility-solutions-for-cinema/cineassista/).
 
