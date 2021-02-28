@@ -37,9 +37,6 @@ I am currently working with real time multimedia software for digital cinema, he
 <br />
 <br />
 
-### Spotify Playing 🎧
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=12150148237&cover_image=true&theme=natemoo-re)](https://spotify-github-profile.vercel.app/api/view?uid=12150148237&redirect=true)
-
 <details>
   <summary>GitHub Stats</summary>
 
