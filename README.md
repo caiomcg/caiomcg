@@ -3,9 +3,9 @@
 [![Website](https://img.shields.io/website?label=caiomcg.com&style=for-the-badge&url=https%3A%2F%2Fcaiomcg.com)](https://caiomcg.com)
 [![Twitter Follow](https://img.shields.io/twitter/follow/caiomcg?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fcaiomcg&screen_name=CaioMCG)
 
-I am a Computer Science Bachelor from Brazil seeking a Master of Science title in Informatics focused on Distributed Systems.
+I am a Brazillian Master of Science and Bachelor in Computer Science working with AI and Embedded Systems.
 
-I am currently working with real time multimedia software for digital cinema, helping the inclusion of deaf and blind spectators in theaters around the world. My work is currently available in the vast majority of cinemas around Brazil and will soon be available worldwide, if you want to know a bit more about it please have a look over [here](https://professional.dolby.com/product/dolby-accessibility-solutions-for-cinema/cineassista/).
+I've worked with real time multimedia software for digital cinema, helping the inclusion of deaf and blind spectators in theaters around the world. I've also worked with GPON networking with DZS, adding new features and fixing bugs in their OLTs and working on the majority of their LCs. Currently I create  embedded software and VST plugins for the audio industry at [Moises.ai](https://moises.ai/).
 
 ### Connect with me:
 
